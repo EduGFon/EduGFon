@@ -1,12 +1,12 @@
 ## ➯ Something about me <code><a href="https://www.flaticon.com/authors/frelayasia"><img height="30" title="Heart icons created by frelayasia - Flaticon" src="icons/heart.png"></a></code>
 
-- <img width="25" src="https://skillicons.dev/icons?i=ts"> **Back-end TypeScript developer;**
+- <img width=25 src="https://skillicons.dev/icons?i=ts"> **Back-end TypeScript developer;**
 
-- <img width="25" title="Federal University of Espirito Santo's logo" src="icons/ufes.png"></a> **Computer Science student at UFES;**
+- <img width=25 title="Federal University of Espirito Santo's logo" src="https://www.ufes.br/sites/default/files/field/image/MARCA.png"></a> **Computer Science student at UFES;**
 
-- <img width='25' src='icons/tuxnobg.png' title='Linux Tux'> **Linux and FOSS are my passion;**
+- <a href='https://www.flaticon.com/br/icones-gratis/linux' title='Linux Tux - by FreePik'><img width=25 src='https://cdn-icons-png.flaticon.com/512/6124/6124995.png' title='Linux Tux'></a> **Linux and FOSS are my passion;**
 
-- <a href="https://www.flaticon.com/authors/freepik"><img width="25" title="Brazil icons created by Freepik - Flaticon" src="icons/brazil.png"></a> **From Xique-xique - Bahia 📍 to the world;**
+- <a href="https://www.flaticon.com/authors/freepik"><img width=25 title="Brazil icons created by Freepik - Flaticon" src="icons/brazil.png"></a> **From Xique-xique - Bahia 📍 to the world;**
 
 <br>
 
