@@ -8,8 +8,6 @@
 
 - <a href='https://www.flaticon.com/authors/freepik'><img width=25 title='Brazil icons created by Freepik - Flaticon' src='icons/brazil.png'></a> **From Xique-xique - Bahia 📍 to the world;**
 
-<br>
-
 ## ➯ Tech Stack <code><a href="https://www.flaticon.com/authors/karyative"><img width="25" title="Skill icons created by karyative - Flaticon" src="icons/skill.png"></a></code>
 
 
@@ -29,7 +27,6 @@
 <code><img height="30" src="https://skillicons.dev/icons?i=firebase" title="Firebase"></code>
 
 
-
 ### **➯ Tools, Frameworks and Runtimes** <code><a href="https://www.flaticon.com/authors/photo3idea-studio"><img width="25" title="Framework icons created by photo3idea_studio - Flaticon" src="icons/framework.png"></a></code>
 
 <code><img height="30" src="https://skillicons.dev/icons?i=express" title="Express"></code>
@@ -41,7 +38,6 @@
 <code><img height="30" src="https://skillicons.dev/icons?i=discordjs" title="DiscordJS"></code>
 
 
-
 ### **➯ Distros** <code><a href="https://www.flaticon.com/authors/freepik" title="database icons"><img width="25" title="Linux icons created by Freepik - Flaticon" src="icons/linux.png"></a></code>
 
 <code title="Arch Linux"><img height="30" src="distros/arch.png"></code>
@@ -51,7 +47,6 @@
 <!-- <img height='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduGFon&bg_color=30,ff008a,7f00ff&title_color=fff&text_color=fff">
 It's commented bc gh-rm-stats is offline
 -->
-</br>
 
 "The life is **hard**, but my **dick** is more." - Aristotle, 3**69 b.b.c**.
 
