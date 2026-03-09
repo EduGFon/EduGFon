@@ -27,7 +27,7 @@
 <code><img height="30" src="https://skillicons.dev/icons?i=firebase" title="Firebase"></code>
 
 
-### **➯ Tools, Frameworks and Runtimes** <code><a href="https://www.flaticon.com/authors/photo3idea-studio"><img width="25" title="Framework icons created by photo3idea_studio - Flaticon" src="icons/framework.png"></a></code>
+### **➯ Tools/Frameworks/Runtimes** <code><a href="https://www.flaticon.com/authors/photo3idea-studio"><img width="25" title="Framework icons created by photo3idea_studio - Flaticon" src="icons/framework.png"></a></code>
 
 <code><img height="30" src="https://skillicons.dev/icons?i=express" title="Express"></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=prisma" title="Prisma"></code>
